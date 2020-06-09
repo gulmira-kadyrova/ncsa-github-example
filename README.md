@@ -9,8 +9,8 @@ test github repository api
 
 ### Usage
 * git clone + mvn clean install
-* right click run class @ test > java > com > ncsa > runner > CukesRunner
-
+* right click and run class @ test > java > com > ncsa > runner > CukesRunner
+* see simple report @ target > html-cucumber-report > index.html
 
 ## Scenarios
 * located @ test > resources > features 
